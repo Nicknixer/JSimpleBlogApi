@@ -1,0 +1,5 @@
+.idea
+build
+.gradle
+.gradletasknamecache
+gradle-app.setting
